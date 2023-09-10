@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/museu.html"
+status = 200
