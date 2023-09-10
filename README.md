@@ -1,14 +1,14 @@
-# 📚 Sobre
- Museu Ncaional é um website criado e desenvolvido juntamente com o curso Udemy.
+# 📚 About
+  Museu Nacional is a website created and developed together with the Udemy course.
 <hr>
 
-## Detalhes
-Foi criado e desenvolvido apenas para aprofundamento de conhecimentos
+## Details
+It was created and developed solely to deepen knowledge
 
- ## 💻Tecnologias utilizadas
+  ## 💻Technologies used
 - HTML <br>
-- CSS
+-CSS
 
-## 👩‍💻Acesse o Site
-Hospedado no netlify <br>
+## 👩‍💻Access the Website
+Hosted on netlify <br>
 [https://mmuseunacional.netlify.app](https://mmuseunacional.netlify.app)
